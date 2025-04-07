@@ -9,6 +9,7 @@ def cadastrar_veiculo():
     modelo = input("Digite o modelo do veículo: ")
     ano = int(input("Digite o ano do veículo: "))
     preco = float(input("Digite o preço do veículo: "))
+    print("oii")
 
     # Cria o dicionário para o novo veículo
     veiculo = {"id": id_veiculo, "marca": marca, "modelo": modelo, "ano": ano, "preco": preco}
