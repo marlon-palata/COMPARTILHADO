@@ -6,7 +6,6 @@ LISTAS Veículos: Exibe todos os veículos disponíveis no catálogo.
 COMPRAR Veículo: Remove um veículo da lista, simulando a compra.
 
 """)
-
 veiculos = []  # Lista para armazenar os veículos
 id_veiculo = 1  # Inicializa o ID dos veículos
 
